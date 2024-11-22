@@ -17,6 +17,7 @@ import NavBar from './components/NavBar.vue'
 
 <style scoped>
 :global(body){
-  background-color:  #ff8142;
+  background-color:  #ffe6d9;
+  color: #894d2c;
 }
 </style>
